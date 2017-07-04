@@ -25,6 +25,7 @@ export default class Template extends React.Component {
           style={{
             background: `rebeccapurple`,
             marginBottom: rhythm(1),
+            display: 'none'
           }}
         >
           <div
